@@ -271,9 +271,6 @@
         <mxCell id="2j1O3pia1NP7BTMH4ibD-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AI套餐绑定" vertex="1">
           <mxGeometry height="40" width="90" x="912" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="2j1O3pia1NP7BTMH4ibD-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AI套餐绑定" vertex="1">
-          <mxGeometry height="40" width="90" x="1033" y="170" as="geometry" />
-        </mxCell>
         <mxCell id="2j1O3pia1NP7BTMH4ibD-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="AI应用" vertex="1">
           <mxGeometry height="40" width="90" x="1153" y="230" as="geometry" />
         </mxCell>
@@ -312,6 +309,12 @@
         </mxCell>
         <mxCell id="2j1O3pia1NP7BTMH4ibD-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" value="旷视" vertex="1">
           <mxGeometry height="30" width="60" x="685" y="756" as="geometry" />
+        </mxCell>
+        <mxCell id="2j1O3pia1NP7BTMH4ibD-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="意图管理" vertex="1">
+          <mxGeometry height="40" width="90" x="1680" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="2j1O3pia1NP7BTMH4ibD-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="算法商城" vertex="1">
+          <mxGeometry height="40" width="90" x="1033" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
