@@ -5,10 +5,15 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2j1O3pia1NP7BTMH4ibD-8" edge="1" parent="1" source="2j1O3pia1NP7BTMH4ibD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="SrSeO8HYlLzprJpbGxwX-58">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="495" y="850" />
+              <mxPoint x="495" y="850" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2j1O3pia1NP7BTMH4ibD-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="90" width="310" x="340" y="920" as="geometry" />
+          <mxGeometry height="90" width="273.5" x="356.5" y="920" as="geometry" />
         </mxCell>
         <mxCell id="SrSeO8HYlLzprJpbGxwX-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=14;" value="" vertex="1">
           <mxGeometry height="221" width="256" x="924" y="649" as="geometry" />
@@ -35,7 +40,7 @@
           <mxGeometry height="250" width="350" x="1440" y="385" as="geometry" />
         </mxCell>
         <mxCell id="SrSeO8HYlLzprJpbGxwX-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=14;" value="千里眼综合运管门户" vertex="1">
-          <mxGeometry height="580" width="20" x="1820" y="280" as="geometry" />
+          <mxGeometry height="600" width="20" x="1820" y="280" as="geometry" />
         </mxCell>
         <mxCell id="SrSeO8HYlLzprJpbGxwX-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontSize=14;" value="大模型训推平台" vertex="1">
           <mxGeometry height="220" width="230" x="1190" y="650" as="geometry" />
@@ -127,13 +132,13 @@
           <mxGeometry height="255" width="270" x="360" y="385" as="geometry" />
         </mxCell>
         <mxCell id="SrSeO8HYlLzprJpbGxwX-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" value="IPC" vertex="1">
-          <mxGeometry height="30" width="60" x="356.5" y="950" as="geometry" />
+          <mxGeometry height="30" width="60" x="383" y="950" as="geometry" />
         </mxCell>
         <mxCell id="SrSeO8HYlLzprJpbGxwX-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" value="NVR" vertex="1">
-          <mxGeometry height="30" width="60" x="426.5" y="950" as="geometry" />
+          <mxGeometry height="30" width="60" x="453" y="950" as="geometry" />
         </mxCell>
         <mxCell id="SrSeO8HYlLzprJpbGxwX-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" value="国标" vertex="1">
-          <mxGeometry height="30" width="60" x="496.5" y="950" as="geometry" />
+          <mxGeometry height="30" width="60" x="523" y="950" as="geometry" />
         </mxCell>
         <mxCell id="2j1O3pia1NP7BTMH4ibD-9" edge="1" parent="1" source="SrSeO8HYlLzprJpbGxwX-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SrSeO8HYlLzprJpbGxwX-7">
           <mxGeometry relative="1" as="geometry">
