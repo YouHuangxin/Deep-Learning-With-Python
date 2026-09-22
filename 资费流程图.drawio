@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="MHsjoVx9Lyafrlnw6lyC">
-    <mxGraphModel dx="1146" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1146" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,11 @@
         <mxCell id="F0fNiaySVqJx2o3j9_GI-22" edge="1" parent="1" source="F0fNiaySVqJx2o3j9_GI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="F0fNiaySVqJx2o3j9_GI-21" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-21" connectable="0" parent="F0fNiaySVqJx2o3j9_GI-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="N" vertex="1">
+          <mxGeometry relative="1" x="-0.5583" y="1" as="geometry">
+            <mxPoint x="-1" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F0fNiaySVqJx2o3j9_GI-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="订购手机号包含企业数&amp;gt;1?" vertex="1">
           <mxGeometry height="80" width="190" x="530" y="240" as="geometry" />
         </mxCell>
@@ -71,6 +76,66 @@
         </mxCell>
         <mxCell id="F0fNiaySVqJx2o3j9_GI-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="套餐为“使用中”状态" vertex="1">
           <mxGeometry height="60" width="120" x="840" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-1" edge="1" parent="1" source="aGjE79g8aGwYqJXrAkif-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aGjE79g8aGwYqJXrAkif-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="开始" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-5" edge="1" parent="1" source="aGjE79g8aGwYqJXrAkif-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aGjE79g8aGwYqJXrAkif-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-6" connectable="0" parent="aGjE79g8aGwYqJXrAkif-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Y" vertex="1">
+          <mxGeometry relative="1" x="-0.1857" y="-3" as="geometry">
+            <mxPoint x="-2" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;" value="订单是否包含EC编码？" vertex="1">
+          <mxGeometry height="80" width="190" x="260" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-8" edge="1" parent="1" source="aGjE79g8aGwYqJXrAkif-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="680" as="sourcePoint" />
+            <mxPoint x="835" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-9" connectable="0" parent="aGjE79g8aGwYqJXrAkif-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Y" vertex="1">
+          <mxGeometry relative="1" x="-0.0899" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-12" edge="1" parent="1" source="aGjE79g8aGwYqJXrAkif-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aGjE79g8aGwYqJXrAkif-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="按照展示规则进行展示" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="结束" vertex="1">
+          <mxGeometry height="60" width="120" x="1030" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-15" edge="1" parent="1" source="aGjE79g8aGwYqJXrAkif-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="aGjE79g8aGwYqJXrAkif-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="EC编码的企业可用该套餐" vertex="1">
+          <mxGeometry height="60" width="120" x="295" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-17" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aGjE79g8aGwYqJXrAkif-20" value="自动关联">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="790" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-19" edge="1" parent="1" source="aGjE79g8aGwYqJXrAkif-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="aGjE79g8aGwYqJXrAkif-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="套餐为“使用中”状态" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="订购在手机号上" vertex="1">
+          <mxGeometry height="30" width="100" x="440" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="aGjE79g8aGwYqJXrAkif-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="订购在企业上，企业自动绑定为使用中" vertex="1">
+          <mxGeometry height="30" width="260" x="500" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
