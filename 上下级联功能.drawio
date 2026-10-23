@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="XWwbFBpFkrGT_KO46FuM">
-    <mxGraphModel dx="1375" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2202" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,6 +8,15 @@
           <mxGeometry height="87.5" width="160" x="570" y="120" as="geometry" />
         </mxCell>
         <mxCell id="MZJfiUM7_2lgVW0HyCOa-6" edge="1" parent="1" source="MZJfiUM7_2lgVW0HyCOa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="MZJfiUM7_2lgVW0HyCOa-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L4U-7njsa1Qs4CQzWqKb-4" edge="1" parent="1" source="MZJfiUM7_2lgVW0HyCOa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="L4U-7njsa1Qs4CQzWqKb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L4U-7njsa1Qs4CQzWqKb-5" edge="1" parent="1" source="MZJfiUM7_2lgVW0HyCOa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="L4U-7njsa1Qs4CQzWqKb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L4U-7njsa1Qs4CQzWqKb-6" edge="1" parent="1" source="MZJfiUM7_2lgVW0HyCOa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="L4U-7njsa1Qs4CQzWqKb-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MZJfiUM7_2lgVW0HyCOa-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="E&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
@@ -62,13 +71,13 @@
         <mxCell id="MZJfiUM7_2lgVW0HyCOa-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="D" vertex="1">
           <mxGeometry height="80" width="80" x="370" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="MZJfiUM7_2lgVW0HyCOa-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1" vertex="1">
+        <mxCell id="MZJfiUM7_2lgVW0HyCOa-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="1" vertex="1">
           <mxGeometry height="35" width="60" x="160" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="MZJfiUM7_2lgVW0HyCOa-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2" vertex="1">
+        <mxCell id="MZJfiUM7_2lgVW0HyCOa-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="2" vertex="1">
           <mxGeometry height="35" width="60" x="270" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="MZJfiUM7_2lgVW0HyCOa-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3" vertex="1">
+        <mxCell id="MZJfiUM7_2lgVW0HyCOa-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="3" vertex="1">
           <mxGeometry height="35" width="60" x="380" y="520" as="geometry" />
         </mxCell>
         <mxCell id="MZJfiUM7_2lgVW0HyCOa-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="设备" vertex="1">
@@ -77,17 +86,26 @@
         <mxCell id="MZJfiUM7_2lgVW0HyCOa-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;br&gt;&lt;div&gt;企业&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="50" x="580" y="137.5" as="geometry" />
         </mxCell>
-        <mxCell id="MZJfiUM7_2lgVW0HyCOa-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;企业逻辑：&lt;/div&gt;1.A 是本级企业，E是A的上级企业&lt;div&gt;2.A 是 B、C、D的上级企业，B、C、D级联至A企业上&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;设备归属逻辑：&lt;/div&gt;&lt;div&gt;1. “&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;1、2、3 ”分别是 B、C、D上的设备，“4、5、6”是 A 上的设备。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;2.对于E企业，1、2、3、4、5、6是 级联设备&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;3.对于A企业，1、2、3是级联设备，4、5、6是 本企业&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;套餐逻辑：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;1.视频豆套餐开在E企业&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="445" width="320" x="780" y="110" as="geometry" />
+        <mxCell id="MZJfiUM7_2lgVW0HyCOa-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;企业逻辑&lt;/b&gt;：&lt;/div&gt;1.A 是本级企业，E是A的上级企业&lt;div&gt;2.A 是 B、C、D的上级企业，B、C、D级联至A企业上&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;设备归属逻辑&lt;/b&gt;：&lt;/div&gt;&lt;div&gt;1. “&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;1、2、3 ”分别是 B、C、D上的设备，“4、5、6”是 A 上的设备。“7、8、9”分别是 E节点上的设备&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;2.对于E企业，1、2、3、4、5、6是 级联设备，7、8、9是本企设备&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;3.对于A企业，1、2、3是级联设备，4、5、6是 本企设备&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;4.对于B、C、D企业，B-1、C-2、D-3分别为&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;本企设备&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;b&gt;套餐逻辑&lt;/b&gt;：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;1.视频豆套餐开在E企业：可以开启 1、2、3、4、5、6、7、8、9 设备的大模型功能（如“文生”）权限，开启后 ，功能标注 “正在使用 E 企业视频豆功能权益”。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2.视频豆套餐开在A企业：可以开启 1、2、3、4、5、6设备的大模型功能（如“文生”）权限，开启后 ，功能标注 “正在使用 A 企业视频豆功能权益”。&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3.&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;视频豆套餐开在B企业：可以开启 1设备的大模型功能（如“文生”）权限，开启后 ，功能标注 “正在使用 B 企业视频豆功能权益”。（C、D企业同理）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;4.（注意）如果是E企业 和 B企业 同时都有视频豆权益，则按照谁先开启的功能，就用谁的权益。比如E企业有视频豆，B企业也有视频豆，如果是E先开启，操作的1设备，则使用E企业的视频豆。如果出现E企业的视频豆用完了，功能需备注“E企业视频豆已消耗完毕，请及时续费”。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;5.（注意）如果B企业这个时候要用，需要联系上级E企业，把开关关闭后，B企业开启后，则使用B企业的视频豆权益&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="520" width="320" x="800" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="MZJfiUM7_2lgVW0HyCOa-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4" vertex="1">
+        <mxCell id="MZJfiUM7_2lgVW0HyCOa-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="4" vertex="1">
           <mxGeometry height="35" width="60" x="480" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="MZJfiUM7_2lgVW0HyCOa-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5" vertex="1">
+        <mxCell id="MZJfiUM7_2lgVW0HyCOa-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="5" vertex="1">
           <mxGeometry height="35" width="60" x="590" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="MZJfiUM7_2lgVW0HyCOa-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6" vertex="1">
+        <mxCell id="MZJfiUM7_2lgVW0HyCOa-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="6" vertex="1">
           <mxGeometry height="35" width="60" x="700" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="L4U-7njsa1Qs4CQzWqKb-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="7" vertex="1">
+          <mxGeometry height="35" width="60" x="-170" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="L4U-7njsa1Qs4CQzWqKb-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="8" vertex="1">
+          <mxGeometry height="35" width="60" x="-60" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="L4U-7njsa1Qs4CQzWqKb-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="9" vertex="1">
+          <mxGeometry height="35" width="60" x="50" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
